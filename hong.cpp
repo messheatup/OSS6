@@ -11,4 +11,5 @@ int main(){
     if(Jin == "0") puts("내가 제일 만만하니/n");
     puts("응 만만해");
   }
+  printf("ㅋㅋㅋ");
 }

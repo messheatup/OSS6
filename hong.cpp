@@ -1,15 +1,18 @@
 #include <stdio.h>
+#include<iostream>
 
+using namespace std;
 int main(){
   int Jin =0;
-  printf("Hellow World");
-  printf("I want commit this!");
-  
+  int age =20;
+ 
   for(i=0;i<100;i++)
   {
-    puts("재진이 바보/n");
-    if(Jin == "0") puts("내가 제일 만만하니/n");
-    puts("응 만만해");
+    cout<<"재진이 바보"<<endl;
+    if(Jin == "0") 
+      cout<<"내가 제일 만만하니"<<endl;
+    if(age>0)
+      cout<<"응 만만해"<<endl;
   }
-  printf("ㅋㅋㅋ");
+  cout<<"ㅋㅋㅋ"<<endl;
 }
